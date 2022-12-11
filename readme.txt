@@ -1,6 +1,4 @@
-git is a version control system.
-git is a free syftware.
-
-creating a new branch is quick
-
-modify in the online 
+1.git is a version control system.
+2.git is a free syftware.
+3.creating a new branch is quick
+4.modify in the online 
